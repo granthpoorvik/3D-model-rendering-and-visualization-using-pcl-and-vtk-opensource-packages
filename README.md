@@ -301,6 +301,7 @@ We welcome contributions from the community. If you want to contribute to the pr
 
 1. [Include guidelines for contributions]
 2. [Explain how to submit pull requests or report issues]
+3. [Fixing a bug or resolving an issue reported by user]
 
 ## License
 
